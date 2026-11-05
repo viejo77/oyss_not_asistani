@@ -1,0 +1,6 @@
+{
+  "name": "ÖYSS Not Baremi ve Soru Bazlı Not Giriş Sistemi",
+  "description": "MEB ortak yazılı sınavları için konu soru dağılımı, senaryo seçimi, soru bazlı not baremi oluşturma, öğrenci not girişi ve Excel/PDF raporlama sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
